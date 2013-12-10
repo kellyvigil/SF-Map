@@ -23,7 +23,11 @@ body {
 
 }
 
-.left-side{
+.right-side{
+  width: 25%;
+  height: 100%;
+  float: right;
+  
 
 
 }
