@@ -15,6 +15,7 @@ body {
       height: 100%; 
       width: 70%; 
       float: left;
+      position: absolute;
 
       }
 
@@ -29,29 +30,25 @@ body {
     width: 30%;
     max-height: 100%;
     float: right;
+    position: relative;
+    background-color: #E6E6E6;
 
 }
 
-
-
-.right-side {
-    width: 30%;
-    height: 100%;
-    float: right;
-    background-color: blue;
-
-}
 
 img{
-  height: 200px;
-  width: 200px;
-  margin; 50% auto;
-
-
+  width: 100%;
+  height: auto;
+ 
 }
 
 
 p{
   font-family: Helvetica;
+  color: #747474;
+  max-width: 385px;
+  margin: 0 auto;
+  position: center;
+  text-align: center;
 
 }

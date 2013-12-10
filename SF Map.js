@@ -69,7 +69,7 @@ function initialize() {
 google.maps.event.addDomListener(window, 'load', initialize);
 
 $(document).ready(function() {
- var tag = "goducks";
+ var tag = "yosemite";
 var url = "https://api.instagram.com/v1/tags/"+tag+"/media/recent?client_id=bd5b06bec64b41f9a9d75aba40c05962&callback=?"
 
 $.getJSON(url).success(function(response) {
