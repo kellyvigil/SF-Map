@@ -12,7 +12,7 @@ body {
  #map-canvas { 
 
       height: 100%; 
-      width: 75%; 
+      width: 70%; 
       float: left;
 
       }
@@ -25,8 +25,8 @@ body {
 
 
 
-#ig {
-    width: 25%;
+.ig {
+    width: 30%;
     height: 100%;
     float: right;
 
